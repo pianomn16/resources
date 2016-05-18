@@ -128,4 +128,6 @@ while running:
         pygame.draw.rect(screen, (255, 255, 255), wall.rect)
     pygame.draw.rect(screen, (255, 0, 0), end_rect)
     pygame.draw.rect(screen, (255, 200, 0), player.rect)
+    # draw origin rectangle here
+    
     pygame.display.flip()
