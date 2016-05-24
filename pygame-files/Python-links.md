@@ -11,3 +11,5 @@ for mac download pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg
 
 Pycharm (Python IDE) download link:
 https://www.jetbrains.com/pycharm/download/
+
+Community-version is free
