@@ -1,4 +1,4 @@
-##Python compiler/IDE download links
+##Python compiler/IDE and PyGame download links
 
 ###Python shell/compiler download link:
 https://www.python.org/downloads/   
@@ -19,6 +19,6 @@ http://www.pygame.org/download.shtml
 
 For Windows: Download [pygame-1.9.1.win32-py2.7.msi](http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi)
 
-for Mac OS X: Download [pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg](http://pygame.org/ftp/pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg) 
+For Mac OS X: Download [pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg](http://pygame.org/ftp/pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg) 
 
 
