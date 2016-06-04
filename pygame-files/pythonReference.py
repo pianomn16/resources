@@ -49,11 +49,12 @@ seller.talk(Player1.name)
 #opening a file
 fileName = raw_input('Enter a file name')
 try:
-	fileHandle = open(filename)
+	fileHandle = open(fileName)
 except:
 	print('file: ' + filename + ' cannot be opened')
 	exit()
-fileName.close()
+#don't forget to close
+fileHandle.close()
 
 #destroying an object
 Player1.__del__()
