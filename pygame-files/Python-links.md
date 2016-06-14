@@ -22,3 +22,8 @@ For Windows: Download [pygame-1.9.1.win32-py2.7.msi](http://pygame.org/ftp/pygam
 For Mac OS X: Download [pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg](http://pygame.org/ftp/pygame-1.9.1release-python.org-32bit-py2.7-macosx10.3.dmg) 
 
 
+
+###Pygame function/class index:
+[http://www.pygame.org/docs/genindex.html](http://www.pygame.org/docs/genindex.html)
+
+
